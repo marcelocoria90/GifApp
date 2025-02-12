@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en componente <GifItem /> debe de hacer match con el snapshop 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="bart"
+      src="https://media3.giphy.com/media/XuDlhFtiWXZEk/giphy.gif?cid=9775a22f2gpmiv31hmp8wx8bfx18y3tl28ddu5whlo9iuqsh&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      bart
+    </p>
+  </div>
+</div>
+`;
